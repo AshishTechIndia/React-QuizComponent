@@ -5,7 +5,7 @@ class QuizQuestionButton extends Component {
   render() {
     return (
         
-            <li><button>{this.props.button_text.maps((index)=>)}</button></li>
+            <li><button>{this.props.button_text}</button></li>
           
     )
   }
